@@ -1,4 +1,5 @@
-## olá, me chamo jeorge 👋
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Jeorge!;🧑‍💻Sou+desenvolvedor+full-stalck🚀)](https://git.io/typing-svg)
+<p align="center">
 
 Olá, meu nome é Jeorge. Sou estudante de analise e desenvolvimento de sistemas, 
 gosto de programação e sou fascinado por tecnologia e inovação
