@@ -1,5 +1,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Jeorge!;🧑‍💻Sou+desenvolvedor+full-stalck🚀)](https://git.io/typing-svg)
 <p align="center">
+
+ ### 😎 **Sobre mim** 
 Olá, meu nome é Jeorge. Sou estudante de analise e desenvolvimento de sistemas, 
 gosto de programação e sou fascinado por tecnologia e inovação
 <!--🐱CAT-->
@@ -9,9 +11,8 @@ gosto de programação e sou fascinado por tecnologia e inovação
 
 
 
-
-
-                                                           🌐Minhas Redes Sociais
+### 🌐 **Minhas Redes Sociais** 
+                                                          
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <a href="https://www.youtube.com/@mentemaker/featured">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone YouTube" style="margin: 0 10px;">
