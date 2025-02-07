@@ -14,8 +14,8 @@ Antes de entrar na área de programação , trabalhei como técnico em seguranç
 ### 🌐 **Minhas Redes Sociais** 
                                                           
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://www.youtube.com/@mentemaker/featured">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone YouTube" style="margin: 0 10px;">
+  <a href="https://jeorgealexandre.tech/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Ícone portifolio" style="margin: 0 10px;">
   </a>
   <a href="https://www.instagram.com/jeorgealexandre_tech/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==">
     <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
