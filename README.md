@@ -26,7 +26,7 @@ Antes de entrar na área de programação , trabalhei como técnico em seguranç
   <a href="https://www.linkedin.com/in/jeorge-alexandre-812b3b192/?originalSubdomain=br">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ícone linkedin" style="margin: 0 10px;">
   </a>
-  <a href="https://chat.whatsapp.com/FGkU80peYjMFubHPiNScSm">
+  <a href="https://w.app/uvfbsr">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Ícone WhatsApp" style="margin: 0 10px;">
   </a>
 </div>
