@@ -3,6 +3,11 @@
 
 Olá, meu nome é Jeorge. Sou estudante de analise e desenvolvimento de sistemas, 
 gosto de programação e sou fascinado por tecnologia e inovação
+<!--🐱CAT-->
+<p align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47cdmjcgpo1zocm66tzmkyyf4o6mqss5jxpwcf2ypm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
+</p>
+
 
 - 🔭 Atualmente estou trabalhando ...
 - 🌱 Atualmente estou aprendendo ...
