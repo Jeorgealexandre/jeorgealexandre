@@ -30,4 +30,13 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-   
+
+
+   <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<p align="center">
+<!--RECENT_ACTIVITY:last_update-->
+<i> Data de criação</i> : <b>7 fevereiro , 2025, 6:10:10 PM</b>
+<!--RECENT_ACTIVITY:last_update_end-->
+  
