@@ -6,8 +6,12 @@ gosto de programação e sou fascinado por tecnologia e inovação
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47cdmjcgpo1zocm66tzmkyyf4o6mqss5jxpwcf2ypm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
 </p>
-                                                           🌐Minhas Redes Sociais
 
+
+
+
+
+                                                           🌐Minhas Redes Sociais
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <a href="https://www.youtube.com/@mentemaker/featured">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone YouTube" style="margin: 0 10px;">
