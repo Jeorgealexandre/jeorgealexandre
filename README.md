@@ -3,7 +3,6 @@
 
  ### 😎 **Sobre mim** 
 olá, sou estudante de analise e desenvolvimento de sistemas, porém estou no mundo da programação há mais de 6 anos fazendo alguns cursos técnicos em escolas na área da tecnologia buscando sempre um bom desempenho e um ótimo aprendizado, por isso já tenho familiaridade com algumas linguagens incluindo CSS3, Javascript, SQL e Phyton, html5. Atualmente trabalho como desenvolvedor front-end para o mercado livre por meio periodo, além de fazer faculdade 
-Antes de entrar na área de programação , trabalhei como técnico em segurança do trabalho, fazendo estágios nas escolas de Sergipe e também realizando palestras, trabalhei também em assistência técnica na aréa de informática reparando hardwares, corrigindo falhas dos sistemas Windows e Linux, realizando formatações e limpezas além disso realizei alguns trabalhos para a AMBEV, por tanto gosto de ser um profissional, organizado, empenhado e ético com meu trabalho buscando assim gerir da melhor maneira os problemas e adversidades do trabalho sendo fascinado em tecnologia buscando sempre um otimo trabalho nessa aréa focada ao trabalho.
 <!--🐱CAT-->
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47cdmjcgpo1zocm66tzmkyyf4o6mqss5jxpwcf2ypm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
