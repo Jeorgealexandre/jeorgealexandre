@@ -8,7 +8,8 @@ olá, sou estudante de analise e desenvolvimento de sistemas, porém estou no mu
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47cdmjcgpo1zocm66tzmkyyf4o6mqss5jxpwcf2ypm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
 </p>
 
----
+ ### 🧐 **Sobre mim** 
+![jeorgealexandre's Stats](https://github-readme-stats.vercel.app/api?username=jeorgealexandre&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ### 🌐 **Minhas Redes Sociais** 
 Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no facebook, Instagram e meu portifolio para mais interações e projetos:
@@ -52,7 +53,7 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
 </div>
 
 
-
+![jeorgealexandre's Stats](https://github-readme-stats.vercel.app/api?username=jeorgealexandre&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
   
   
