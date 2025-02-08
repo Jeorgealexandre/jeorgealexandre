@@ -52,9 +52,4 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" style="margin: 5px;">
 
 </div>
-
-
-![jeorgealexandre's Stats](https://github-readme-stats.vercel.app/api?username=jeorgealexandre&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
-  
-  
+   
