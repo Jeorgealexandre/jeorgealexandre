@@ -11,6 +11,7 @@ olá, sou estudante de analise e desenvolvimento de sistemas, porém estou no mu
 
 
 ### 🌐 **Minhas Redes Sociais** 
+Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no facebook, Instagram e meu portifolio para mais interações e projetos:
                                                           
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <a href="https://jeorgealexandre.tech/">
