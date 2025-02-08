@@ -9,7 +9,7 @@ olá, sou estudante de analise e desenvolvimento de sistemas, porém estou no mu
 </p>
 
  ### 🤖 **status** 
-![jeorgealexandre's Stats](https://github-readme-stats.vercel.app/api?username=jeorgealexandre&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![jeorgealexandre's Stats](https://github-readme-stats.vercel.app/api?username=jeorgealexandre&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
 ---
 ### 🌐 **Minhas Redes Sociais** 
