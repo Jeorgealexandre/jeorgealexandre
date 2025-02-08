@@ -1,7 +1,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+bem-vindo!😁;Meu+nome+é+Jeorge!;🧑‍💻Sou+desenvolvedor+full-stalck🚀)](https://git.io/typing-svg)
 <p align="center">
 
- ### 😎 **Sobre mim** 
+ ### 🧐 **Sobre mim** 
 olá, sou estudante de analise e desenvolvimento de sistemas, porém estou no mundo da programação há mais de 6 anos fazendo alguns cursos técnicos em escolas na área da tecnologia buscando sempre um bom desempenho e um ótimo aprendizado, por isso já tenho familiaridade com algumas linguagens incluindo CSS3, Javascript, SQL e Phyton, html5. Atualmente trabalho como desenvolvedor front-end para o mercado livre por meio periodo, além de fazer faculdade 
 <!--🐱CAT-->
 <p align="center">
