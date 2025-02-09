@@ -1,5 +1,5 @@
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=4000&pause=1000&color=17F78F&center=true&vCenter=true&width=440&height=65&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+jeorge+%F0%9F%98%81;E+sou+desenvolvedor+;Web+Full+stack+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=4000&pause=1000&color=17F78F&center=true&vCenter=true&width=1000&height=65&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+jeorge+%F0%9F%98%81;E+sou+desenvolvedor+;Web+Full+stack+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 <p align="center">
 
  ### 🧐 **Sobre mim** 
